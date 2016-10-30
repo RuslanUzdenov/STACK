@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/magomedgadjiev/Stack-test.svg?branch=master)](https://travis-ci.org/magomedgadjiev/Stack-test)
+[![Build Status](https://travis-ci.org/RuslanUzdenov/Stack.svg?branch=master)](https://travis-ci.org/RuslanUzdenov/Stack)
